@@ -89,4 +89,4 @@ The PIC will be used to control the Triac circuit which would then control the s
 
 ## Screenshots
 
-![App Screenshot](![image](https://user-images.githubusercontent.com/94821815/174350387-da290960-9e00-4632-b8d0-34e163f6297b.png))
+![App Screenshot](!Taks-1/Screenshot 2022-06-17 231903.png)
