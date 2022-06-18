@@ -26,7 +26,7 @@ The RTC module wil be used to store the scanning, entry or exit time.
 LCD shall be used to print out various commands or display whats going on.
 
 ## Circuit
-![image](https://user-images.githubusercontent.com/94821815/174437430-3b0cbdec-8cae-44e3-822f-e4cb0a1b70fe.png)
+![image](https://user-images.githubusercontent.com/94821815/174439937-9eca30a0-dccc-4bb4-bf5e-87ff6e5b32e5.png)
 
 ## Improvements
 Interface the current project with a web server to display attendence record along with entry and exit time.
