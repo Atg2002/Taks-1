@@ -122,7 +122,7 @@ The objective of this project is to model a self driving car capable of object d
 + Car Chassis
 + Car Tire
 + 360° Wheel
-+Remote control+IR receiver
++ Remote control+IR receiver
 
 ## Description
 We would used 3 Ultrasonic sensors to detect the distance of the obstacle.Depending on the proximity we will use the motor driver to control the motors to go left, right or backward.We will use the IR receiver to on and off the model.
